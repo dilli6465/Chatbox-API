@@ -14,7 +14,7 @@ import org.springframework.web.client.RestTemplate;
 public class ChatBox{
 
     private static final String API_URL = "https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3-8B-Instruct";
-    private static final String HF_API_KEY = "Your_Hugging_Face_API_Key_Here";
+    private static final String HF_API_KEY = "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";
 
     public static void main(String[] args) {
         SpringApplication.run(ChatApplication.class, args);
