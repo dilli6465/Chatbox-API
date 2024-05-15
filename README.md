@@ -20,7 +20,10 @@ Hugging Face API key obtained from [Hugging Face](https://huggingface.co/login).
 We can use this as a AI assistant as same as chatgpt.
 I developed it upto my extent by using my skills.
 
-## Demo
+## Acknwoledgements
+
+Thanks to sunbase for giving this oppurtunity and i experienced a lot from this assessment.
+
 
 
 
